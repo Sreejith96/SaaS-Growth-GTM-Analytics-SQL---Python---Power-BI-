@@ -1,8 +1,6 @@
 SaaS Growth & GTM Analytics
-Emergence Data Analyst Assessment
+SQL+ Python+ PBI
 Author: Sreejith S. Nair
-
-GitHub Repository: https://github.com/Sreejith96/Sreejith-Emergence-Data-Analyst-Assessment.git
 
 1. Overview of the Analysis
 Business Problem: Leadership needs clear visibility into revenue growth, customer churn, funnel efficiency, and acquisition channel performance to make data-driven decisions.
@@ -143,6 +141,7 @@ Exact Steps:
    └── sql/04_funnel_analysis.sql (validate)
 4. Power BI → SQL Server → Import tables + views
 5. Open dashboard/PowerBI.pbix → Refresh All
+
 
 
 
