@@ -131,7 +131,7 @@ Python 3.9+ (pandas, numpy)
 Power BI Desktop
 
 Exact Steps:
-1. git clone: https://github.com/Sreejith96/Sreejith-Emergence-Data-Analyst-Assessment.git
+1. git clone: https://github.com/Sreejith96/SaaS-Growth-GTM-Analytics-SQL---Python---Power-BI-.git
 2. SSMS → New DB: CREATE DATABASE saas_analytics;
 3. Run SQL **in order**:
    ├── sql/01_table_creation.sql
@@ -141,6 +141,7 @@ Exact Steps:
    └── sql/04_funnel_analysis.sql (validate)
 4. Power BI → SQL Server → Import tables + views
 5. Open dashboard/PowerBI.pbix → Refresh All
+
 
 
 
